@@ -1,0 +1,190 @@
+
+ Skip to main contentSkip to secondary content 
+
+
+University of Southern California
+
+
+COVID-19 Resource Center
+
+
+
+Primary Menu
+University Messages
+COVID-19 in Numbers
+
+COVID-19 Campus Notifications
+
+
+COVID-19 Vaccines, Testing, Diagnosis, Exposure
+
+Pop Testing Hours/Locations
+Using Antigen Tests
+Campaign: Getting to Community Immunity
+FAQ: COVID-19 VACCINE POLICY
+Vaccine Clinic Schedule (UPC)
+Post-Covid Diagnosis and Recovery
+Instructions: Exposure to COVID-19
+
+
+Hygiene and Safety
+
+Health & Hygiene Protocols
+Trojan Check: Campus Access
+Health & Safety FAQs
+EH&S: Reopening Guidelines
+EH&S Best Practices Guides
+Campaign: Spread Care, Not COVID
+
+
+We are SC Site
+ 
+MenuAn icon that consists of three parallel horizontal lines suggestive of a list.
+
+
+SearchAn icon of a magnifying glass.
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+CloseAn icon of a letter X.Close Search
+
+
+
+
+
+Breadcrumb NavigationHome FAQ: COVID-19 VACCINE POLICY
+
+
+
+
+FAQ: COVID-19 VACCINE POLICY 
+Published April 28, 2021 Last Updated December 28, 2021, 5:38 pm 
+
+
+For USC’s official vaccination policy, visit the COVID-19 Vaccination Program Policy page.
+Please see the 12/28/2022 message on booster requirements.
+ I have received my booster, but my status is not correctly reflected in Trojan Check. How can I troubleshoot this issue? If you have received your booster but your status is not correctly reflected in Trojan Check, the following troubleshooting steps may be helpful in resolving the problem.
+Troubleshooting Booster Status in MySHR
+A: Your booster documentation may be uploaded in an incorrect location; OR
+B: Your booster documentation is missing from the data sync between USC Pharmacies/Keck Medicine data and campus health data (MySHR).
+SOLUTION: You can check by logging in to MySHR and checking the “Immunizations” section to see if the booster is recorded. If you do not see it recorded there, upload a file in the “Upload Documents” section under “COVID-19 Vaccine Documentation.”
+Also make sure you have completed the action by hitting the “SAVE” button before you exit.
+C: Your booster documentation is appearing in MySHR, but the status appears as “In Review.”
+SOLUTION: The verification team is checking all uploads and verifying status within 24 hours. Please check again in 24 hours. If you are still encountering an issue, contact Student Health via the “Messages” section in MySHR, select the message for “General Inquiry, Antigen, or COVID Question.”
+ I’ve recently recovered from COVID-19—should I wait to get a booster? You may get a booster as soon as your isolation period ends, some clinical advice may state waiting up to four weeks after an active infection. However, the Student Health medical recommendation is obtaining a booster as soon as your isolation period ends.
+ I am currently in isolation recovering from COVID-19, do I need a booster? Yes, you may receive a booster as soon as your isolation period ends.
+ Is USC accepting outside testing?  USC is accepting outside test results for pre-“Spring semester start” testing. You may upload a photo of your results into "Upload Documents" in the "COVID-19 Viral Test Results" section in MySHR; if you have recently (within 90 days) tested positive, please ALSO complete the contact tracing form as indicated in the instructions. Note: "Spring semester start testing" does not substitute for weekly surveillance testing that is tied into Trojan Check. If you need access to campus, please schedule a test in MySHR. If you need immediate access to campus you may schedule a same-day testing appointment or use the Health Care entrance on Jefferson Boulevard between Vermont and McClintock to access walk-up testing.)
+ I am an international student and received a complete primary series of a WHO EUL vaccine. If I received an additional Pfizer/Moderna vaccine when I arrived on campus in the fall, do I need another vaccine? No, you do not need additional vaccination. The Pfizer/Moderna vaccine you received in the U.S. meets the booster requirement.
+ Should I wait to come to campus to receive the COVID-19 vaccine booster? No, you should obtain a booster as soon as possible if you are eligible, as Los Angeles is in the middle of a growing winter surge. The following sites may be useful to you in finding a location: https://myturn.ca.gov (in CA),  https://www.vaccines.gov (nationally).
+ I’ve had a change in circumstance and would like to apply for an exemption—can I do so? You may submit a medical or religious exemption form for review and evaluation.
+ Will the university change its isolation period from 10 days to 5 days, based on the CDC change in guidance? Updated guidance for isolation and quarantine is available on the post-COVID Diagnosis and Recovery page.
+The guidance for institutions of higher education, including guidance for USC, may be updated based on clarification from state and local public health agencies, which regulate requirements for colleges, universities, health care environments, and employers.
+Current standards on isolation and quarantine periods, populations for surveillance testing (and testing frequency), recommendations for precautions such a masking and other infection reduction measures, are made in consultation with data specific to California, Los Angeles County, and college environments.
+ What must I do to meet the requirements of the COVID-19 Vaccine Policy? Faculty, staff, and students must do one of the following to meet the requirements of the COVID-19 Vaccine Policy:
+
+Receive two doses of the Pfizer or Moderna vaccines; or one dose of the Johnson & Johnson vaccine. Vaccinations administered through USC Student Health or USC Pharmacies are automatically recorded in MySHR (secure health records portal). If you receive your vaccine  at other sites, please  upload your documents (copy of your vaccination records) into MySHR individually. Booster shot records should also be uploaded.
+Obtain an approved religious or medical exemption:  Fill out the appropriate Religious or Medical exemption form and submit it to MySHR. Please allow 14 days for your request to be reviewed.
+
+ I am enrolled in a fully online degree program, or work remotely—does the vaccination policy apply to me? The vaccination policy applies to “all faculty, staff, and students who work, live, visit or study on-campus.”
+For students—If you are enrolled in an online degree program and do not intend to be on the USC campuses, you are not held to the vaccine or booster requirement.
+Your health record (visible only to you) will show “non-compliant,” and as a result, your Trojan Check will be de-activated and you will not be able to access USC campuses.
+If you enroll in classes that are hybrid or meet in person, or decide at a later date to access any USC property, you are required to meet the vaccine policy and Trojan Check requirements before coming to campus.
+If you are currently outside the U.S. and unable to completed the vaccination requirement due to scarcity, please complete the Scarcity Exemption Form.
+Employees in the United States, including remote workers, are required to comply with the COVID-19 vaccine policy.
+ I recently uploaded my vaccination card to MySHR in “Upload Documents.” What happens next? Within 5-7 business days, your vaccination record will be verified.
+Your Trojan Check status will be updated as the data synchronizes with your MySHR record.
+ Can I get vaccinated on campus? Yes, all USC students and employees are eligible to receive vaccinations for COVID-19 at the UPC campus through USC Pharmacies. There is no out-of-pocket costs for students and employees.
+ When am I considered fully vaccinated? You are considered fully vaccinated two weeks after receiving the final dose of a two-dose vaccine, such as the Pfizer or Moderna, or two weeks after a single-dose vaccine, such as Johnson & Johnson.
+ I am fully vaccinated, do I still have to complete Trojan Check to enter campus? Yes, Trojan Check must be completed before visiting any USC campus.
+ What does my documentation have to include? For U.S. immunizations, the COVID-19 vaccination card issued by the CDC to vaccination sites is accepted. For non-U.S. immunizations, please upload proof of receiving the COVID-19 vaccine with the following information in English:
+
+
+Your full name
+Your date of birth
+The name of the vaccine you received
+The date(s) you received the vaccine
+
+Documentation must be from a healthcare organization or vaccination site
+
+ If you completed a 2-dose series, please upload documentation that shows both doses administered. You may upload each dose individually as you get them or together, but your Trojan Check status will not be updated unless both doses are uploaded and reviewed.
+
+If you received a COVID-19 vaccine card, you can take photos of the front of the card and upload into the "Upload Documents" tab in MySHR. If the documentation uploaded is missing any required information, one of our staff will send you a secure message regarding the missing or incorrect information.
+
+
+ Do I have to wait 2 weeks after I complete my vaccination/s to upload my vaccine card to MySHR? No; please upload as soon as you have completed your vaccination/s.  If you received your vaccine from Keck or USC Student Health, your vaccination records will be automatically entered into the electronic health record within 7 days; no need to upload.
+ What if I do not want to be vaccinated at this time? All faculty, staff, and students are require to be in compliance with the COVID-19 vaccination policy.
+Any unvaccinated person, including those with an approved Religious or Medical exemption, will be subject to additional requirements, including but not limited to a requirement to wear a mask indoor on all USC campuses, and to participate in regular testing (every 72 hours).
+ I need assistance troubleshooting in MySHR or Trojan Check, what should I do? Send an email to covid19@usc.edu with your name and USC ID number describing the problem, screenshots may be helpful. You may also call the Covid response center at 213-740-6291 or Student Health at 213-740-9355.
+ I received a vaccine outside of the US other than Pfizer, Moderna, or Johnson and Johnson. Does this satisfy the requirement?  We are accepting all international COVID-19 vaccines that have received EUA through the World Health Organization (WHO). We are continually evaluating efficacy data for other vaccines and further recommendations on additional doses of a COVID-19 vaccine may be updated in the future.
+ If I received a vaccine outside the U.S., can I also receive an additional vaccination in the U.S.? Yes, you may receive an additional vaccine (Pfizer, Moderna, Johnson and Johnson) after 28 days have passed since your previous COVID-19 vaccine.
+ If I previously submitted a declination form, will that be accepted? No, your record must be updated with documentation that meets one of the new exemption criteria. You can upload an exemption form in MySHR (https://usc.edu/myshr)
+ When will I receive information about a decision on a religious/medical exemption that I submitted? Decisions by the review committee will be individually communicated within two weeks.
+ What will happen if I am out of compliance with the vaccine policy? Individuals who are granted exemptions will be required to test regularly through the Pop Testing program (every 72 hours).
+Individuals who do not have approved exemptions will be considered out of compliance with the University’s policies and may be subject to revocation of access to campus (including technology platforms) among other actions.
+All USC students, faculty and staff will be required to continue a daily symptom check (through trojancheck.usc.edu). Valid Trojan Check requires:
+
+Training completion of the appropriate “Hygiene Health and Safety” module (prerequisite, one-time, available August 1) through trojanlearn.usc.edu
+Daily symptom check with attestation
+Compliance with the COVID-19 vaccine policy through vaccination, or approved medical or religious exemption.
+Compliance with seasonal flu immunization policy.
+
+ With personal declinations no longer valid or accepted as of August 1, 2021, what are my options for meeting the COVID-19 Vaccine Policy requirements if I had previously submitted a personal declination? Based on the revised policy, faculty, staff, and students have the option of:
+
+Receiving vaccination on-site when eligible, or
+Providing written documentation of vaccination from an external healthcare facility or clinic (e.g., at a private health care provider’s office or during a vaccine fair), or
+Obtaining an approved religious or medical exemption:  Fill out the appropriate Religious or Medical exemption form and submit it to MySHR. Please allow 14 days for your request to be reviewed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ USC is committed to supporting the health, safety and well-being of our community.
+COVID-19 hotline: 213-740-6291
+Email: covid19@usc.edu
+
+
+
+
+
+Contact Us
+
+
+
+ 
+University of Southern CaliforniaContent managed by USC COVID-19 Response TeamPrivacy Notice
+Notice of Non-Discrimination
+Privacy and Medical Records
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
